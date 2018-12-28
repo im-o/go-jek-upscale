@@ -1,5 +1,5 @@
 berikut penjeasan dari soal upscale go-jek,
-inti dari soal ini adalah : "menghitu berapa kali kata yang dicari muncul, baik secara vertical,horisontal,diagonal dalam suatu balok(matrix)"
+inti dari soal ini adalah : "menghitung berapa kali kata yang dicari muncul, baik secara vertical,horisontal, ataupun diagonal dalam suatu balok(matrix)"
 
 Skills Test
 
