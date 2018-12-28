@@ -48,6 +48,6 @@ kalibrrr
 nana
 
 Output :
-Case 1: 4\n
-Case 2: 8\n
+Case 1: 4
+Case 2: 8
 Case 3: 4
