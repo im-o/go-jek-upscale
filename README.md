@@ -1,11 +1,11 @@
-berikut penjeasan dari soal upscale go-jek,
+berikut penjeasan dari Question Answered upscale go-jek,
 inti dari soal ini adalah : "menghitung berapa kali kata yang dicari muncul, baik secara vertical,horisontal, ataupun diagonal dalam suatu balok(matrix)"
 
-Skills Test
+## Skills Test
 
-##Basic Programming Aptitude
+## Basic Programming Aptitude
 
-## / Questions answered
+## 5/ Questions answered
 
 There is a well-known puzzle called Word Search that involves looking for words in a grid of letters.The words are given in a list and can appear in the grid horizontally, vertically, or diagonally in any direction.In this task, you should implement a solver for word search.You will be given grids and a word to search for, and you have to find how many times that word comes out in the grid.Words that are spelled the same backwards and forwards, also known as palindromes, will not be given, so you don’t need to worry about words that match in the exact same spot in two different directions.
 
@@ -52,7 +52,4 @@ Output :
 Case 1: 4
 Case 2: 8
 Case 3: 4
-<<<<<<< HEAD
 ```
-=======
->>>>>>> imremotegithub/master
