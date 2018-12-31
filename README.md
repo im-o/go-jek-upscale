@@ -1,11 +1,10 @@
 - **Berikut penjelasan dari Question Answered upscale go-jek**
-    inti dari soal Q4 adalah : "menghitung berapa kali kata yang dicari muncul, baik secara vertical,horisontal, ataupun diagonal dalam suatu balok(matrix)"
 
 ## Skills Test
-- **Basic Programming Aptitude**
+**Basic Programming Aptitude**
 
 
-**3 / Questions answered**
+- **3 / Questions answered - Q3**
 
 Some people have been studying the following problem: given two numbers, A and B, how many numbers from A to B, inclusive, are divisible by another number K. For example, if A is 1, B is 10, and K is 3, then there are 3 numbers that satisfy this: 3, 6, and 9. Help them by programming a solution to this problem!
 
@@ -40,7 +39,9 @@ Case 2: 4
 ```
 
 
-**4/ Questions answered - Q4**
+- **4/ Questions answered - Q4**
+
+**inti dari soal Q4 adalah** : "menghitung berapa kali kata yang dicari muncul, baik secara vertical,horisontal, ataupun diagonal dalam suatu balok(matrix)"
 
 There is a well-known puzzle called Word Search that involves looking for words in a grid of letters.The words are given in a list and can appear in the grid horizontally, vertically, or diagonally in any direction.In this task, you should implement a solver for word search.You will be given grids and a word to search for, and you have to find how many times that word comes out in the grid.Words that are spelled the same backwards and forwards, also known as palindromes, will not be given, so you don’t need to worry about words that match in the exact same spot in two different directions.
 
