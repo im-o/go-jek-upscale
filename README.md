@@ -1,10 +1,10 @@
-- **Berikut penjelasan dari Question Answered upscale go-jek**
+**Berikut penjelasan dari Question Answered upscale go-jek**
 
 ## Skills Test
 **Basic Programming Aptitude**
 
 
-- **3 / Questions answered - Q3**
+**3 / Questions answered - Q3**
 
 Some people have been studying the following problem: given two numbers, A and B, how many numbers from A to B, inclusive, are divisible by another number K. For example, if A is 1, B is 10, and K is 3, then there are 3 numbers that satisfy this: 3, 6, and 9. Help them by programming a solution to this problem!
 
@@ -39,7 +39,7 @@ Case 2: 4
 ```
 
 
-- **4/ Questions answered - Q4**
+**4/ Questions answered - Q4**
 
 **inti dari soal Q4 adalah** : "menghitung berapa kali kata yang dicari muncul, baik secara vertical,horisontal, ataupun diagonal dalam suatu balok(matrix)"
 
