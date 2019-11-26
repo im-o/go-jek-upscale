@@ -1,4 +1,24 @@
-**Berikut penjelasan dari Question Answered upscale go-jek**
+## Berikut penjelasan dari Question Answered Upscale Go-Jek  
+Description :
+
+Hello Everyone 🙌
+
+We're looking for 20 data enthusiasts to join Upscale 2.0, an exclusive 2-days hands-on experience with GOJEK Data Science Team.
+It's open for students, graduates, or young professionals.
+
+We will learn about Machine Learning, Data Modelling, and Data Science practices in GOJEK directly from our Data Avengers. 
+Yes, we're calling our Data Science team member: Avengers :)
+
+Perks? Yes, we have it, 
+Let's start from a one-night hotel stay, return travel, GOJEK merchandises, e-certificate, and intense interaction with our Data Avengers.
+
+Upscale 2.0 will take place in GOJEK Headquarter, Pasaraya Blok M, Jakarta at 13-14 July 2019, Treat this as your weekend getaway
+
+What do you think?
+Let's secure your seat by applying at bit.ly/joinupscale02
+Will wait for your application before 21 June 2019
+
+event : https://www.kalibrr.com/c/go-jek-indonesia/jobs/104990/upscale-for-indonesia-s-tech-students/assessment
 
 ## Skills Test
 **Basic Programming Aptitude**
